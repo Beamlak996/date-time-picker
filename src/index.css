@@ -64,3 +64,11 @@
     @apply bg-background text-foreground;
   }
 }
+
+.ethiopian-calendar .rdp-caption {
+  font-weight: bold;
+}
+
+.ethiopian-calendar .rdp-cell {
+  font-family: 'Ethiopic', sans-serif;
+}
